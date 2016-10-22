@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Hi! I am learning how to use this because I need it for the University.
